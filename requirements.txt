@@ -1,0 +1,7 @@
+yfinance
+pandas
+numpy
+streamlit
+streamlit_extras
+datetime
+timedelta
